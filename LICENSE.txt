@@ -1,0 +1,30 @@
+📜 PROPRIETARY LICENSE – VoIPCoop
+Copyright © 2024 Mangaleto. All rights reserved.
+
+1. Allowed Use
+This software (VoIPCoop) is provided only for personal evaluation or non-commercial internal use.
+
+Any public, commercial, or redistribution use requires express written permission from the copyright holder.
+
+2. Restrictions
+You are strictly prohibited from:
+
+Modifying, decompiling, reverse-engineering, or distributing the source code or binaries.
+
+Selling, renting, or sublicensing this software without permission.
+
+Using VoIPCoop for illegal purposes or to infringe third-party rights.
+
+3. Liability
+The author (Mangaleto) is not liable for damages arising from the use or inability to use the software.
+
+The user assumes all risks associated with VoIPCoop.
+
+4. Intellectual Property
+All code, designs, and related documentation are the exclusive property of Mangaleto.
+
+No implied license is granted for patents, trademarks, or copyrights.
+
+5. Contact
+To request special permissions (e.g., commercial use, collaborations):
+🌐 Repository: [https://github.com/mangaleto/voipcoop]
